@@ -2,4 +2,4 @@
 
 ## A Tidy Approach to a Classification Problem
 
-Testing Diego Usai script
+Testing Diego Usai Project
